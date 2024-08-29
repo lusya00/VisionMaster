@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VisionMaster</string>
+    <string name="camera_preview">Camera Preview</string>
+</resources>
